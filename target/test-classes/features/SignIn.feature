@@ -28,4 +28,5 @@ Background:
       | name | email                       | password     | confirmPassword |
       | Ahad | arhabanooristanna@gmail.com | Asyajan@2022 | Asyajan@2022    |
     And User click on SignUp button
+    
    # Then User should be logged into account page

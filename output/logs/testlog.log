@@ -533,3 +533,29 @@
 2023-02-19 20:47:40,291 - logger_File -INFO - user clicked on Create New Account button
 2023-02-19 20:47:40,555 - logger_File -INFO - user filled the signUp information form
 2023-02-19 20:47:40,604 - logger_File -INFO - user clicked on SignUpForm button
+2023-02-20 18:07:58,105 - logger_File -INFO - user is on retail website
+2023-02-20 18:07:58,110 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:07:58,270 - logger_File -INFO - User click on All section
+2023-02-20 18:11:04,143 - logger_File -INFO - user is on retail website
+2023-02-20 18:11:04,166 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:11:04,288 - logger_File -INFO - User click on All section
+2023-02-20 18:13:13,524 - logger_File -INFO - user is on retail website
+2023-02-20 18:13:13,527 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:13:13,663 - logger_File -INFO - User click on All section
+2023-02-20 18:13:13,723 - logger_File -INFO - Electronics is equal to Electronics
+2023-02-20 18:13:13,766 - logger_File -INFO - Computers is equal to Computers
+2023-02-20 18:13:13,917 - logger_File -INFO - Smart Home is equal to Smart Home
+2023-02-20 18:13:13,977 - logger_File -INFO - Sports is equal to Sports
+2023-02-20 18:13:14,026 - logger_File -INFO - Automative is equal to Automative
+2023-02-20 18:21:43,186 - logger_File -INFO - user is on retail website
+2023-02-20 18:21:43,190 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:21:43,362 - logger_File -INFO - User click on All section
+2023-02-20 18:21:43,634 - logger_File -INFO - actual is equal to expected
+2023-02-20 18:32:15,460 - logger_File -INFO - user is on retail website
+2023-02-20 18:32:15,462 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:32:15,529 - logger_File -INFO - User click on All section
+2023-02-20 18:32:15,634 - logger_File -INFO - actual is equal to expected
+2023-02-20 18:35:48,879 - logger_File -INFO - user is on retail website
+2023-02-20 18:35:48,882 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:35:48,944 - logger_File -INFO - User click on All section
+2023-02-20 18:35:49,081 - logger_File -INFO - actual is equal to expected

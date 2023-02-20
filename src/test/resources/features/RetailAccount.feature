@@ -3,7 +3,7 @@ Feature: Retail Application Account Feature
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'test.shaiq@tek.com' and password 'Tek@12345'
+    And User enter email '1aaiqbal@gmail.com' and password 'Deena@112233'
     And User click on login button
     And User should be logged in into Account
 

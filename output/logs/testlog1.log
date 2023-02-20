@@ -533,3 +533,29 @@
 2023-02-19 20:47:40,291 [main] INFO logger_File - user clicked on Create New Account button
 2023-02-19 20:47:40,555 [main] INFO logger_File - user filled the signUp information form
 2023-02-19 20:47:40,604 [main] INFO logger_File - user clicked on SignUpForm button
+2023-02-20 18:07:58,105 [main] INFO logger_File - user is on retail website
+2023-02-20 18:07:58,110 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:07:58,270 [main] INFO logger_File - User click on All section
+2023-02-20 18:11:04,143 [main] INFO logger_File - user is on retail website
+2023-02-20 18:11:04,166 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:11:04,288 [main] INFO logger_File - User click on All section
+2023-02-20 18:13:13,524 [main] INFO logger_File - user is on retail website
+2023-02-20 18:13:13,527 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:13:13,663 [main] INFO logger_File - User click on All section
+2023-02-20 18:13:13,723 [main] INFO logger_File - Electronics is equal to Electronics
+2023-02-20 18:13:13,766 [main] INFO logger_File - Computers is equal to Computers
+2023-02-20 18:13:13,917 [main] INFO logger_File - Smart Home is equal to Smart Home
+2023-02-20 18:13:13,977 [main] INFO logger_File - Sports is equal to Sports
+2023-02-20 18:13:14,026 [main] INFO logger_File - Automative is equal to Automative
+2023-02-20 18:21:43,186 [main] INFO logger_File - user is on retail website
+2023-02-20 18:21:43,190 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:21:43,362 [main] INFO logger_File - User click on All section
+2023-02-20 18:21:43,634 [main] INFO logger_File - actual is equal to expected
+2023-02-20 18:32:15,460 [main] INFO logger_File - user is on retail website
+2023-02-20 18:32:15,462 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:32:15,529 [main] INFO logger_File - User click on All section
+2023-02-20 18:32:15,634 [main] INFO logger_File - actual is equal to expected
+2023-02-20 18:35:48,879 [main] INFO logger_File - user is on retail website
+2023-02-20 18:35:48,882 [main] INFO logger_File - Actual Title React App Equals  ExpectedTitle React App
+2023-02-20 18:35:48,944 [main] INFO logger_File - User click on All section
+2023-02-20 18:35:49,081 [main] INFO logger_File - actual is equal to expected
